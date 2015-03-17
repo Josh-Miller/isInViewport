@@ -5,7 +5,7 @@ No library dependencies, but you can use libraries for element selection if you 
 
 ## How to use
 ```
-var isInViewport = require('./isInViewport');
+var isInViewport = require('isinviewport');
 
 window.onscroll = function() {
 

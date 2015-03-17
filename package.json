@@ -1,0 +1,26 @@
+{
+  "name": "isinviewport",
+  "version": "1.0.0",
+  "description": "Checks to see if an element is visible in the users viewport, without any dependencies required.",
+  "main": "isInViewport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Josh-Miller/isInViewport.git"
+  },
+  "keywords": [
+    "viewport",
+    "viewheight",
+    "viewwidth",
+    "vw",
+    "vh"
+  ],
+  "author": "Josh Miller (http://josh-miller.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Miller/isInViewport/issues"
+  },
+  "homepage": "https://github.com/Josh-Miller/isInViewport"
+}
